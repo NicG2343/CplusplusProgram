@@ -2,7 +2,7 @@
 # include <iostream> using namespace std.
 if...
 {
-cout<<"Good Morning World"
+cout << "Scouts is cool" << end;
 }
 if...
 {
