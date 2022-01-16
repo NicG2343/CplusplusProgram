@@ -2,9 +2,9 @@
 # include <iostream> using namespace std.
 if...
 {
-cout<<"Greet The World"
+cout<<"Scouts is cool"
 }
 if...
 {
-cout<<"Hello World"
+cout<<"it is fun"
 }
