@@ -1,10 +1,10 @@
 /* put your code here, using the example */
 # include <iostream> using namespace std.
-if...
+if 7am
 {
-cout<<"Scouts is cool"
+cout<<"Good morning world"
 }
-if...
+if 10pm
 {
-cout<<"it is fun"
+cout<<"Good night world"
 }
