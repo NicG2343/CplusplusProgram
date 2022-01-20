@@ -1,10 +1,14 @@
 /* put your code here, using the example */
 # include <iostream> using namespace std.
-if 7am
+if 12am to 11:59am
 {
 cout<<"Good morning world";
 }
-if 10pm
+if 12pm to 5:59pm
 {
-cout<<"Good night world";
+cout<<"Good afternoon world";
+}
+if 6pm to 11:59pm
+{
+count<<"Good night world";
 }
